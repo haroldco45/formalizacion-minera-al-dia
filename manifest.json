@@ -1,0 +1,14 @@
+{
+  "name": "Formalización Minera al Día",
+  "short_name": "Formalización",
+  "description": "Seguimiento ciudadano al PL 117 de 2026 Cámara sobre formalización gradual de la pequeña minería — Vibras Positivas HM",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0e1512",
+  "theme_color": "#0e1512",
+  "lang": "es-CO",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}

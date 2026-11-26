@@ -1,0 +1,305 @@
+{
+ "corte": "Datos revisados el 25 de noviembre de 2026 (hora Colombia). Fuentes: ficha del proyecto en camara.gov.co, Gacetas del Congreso 1072 y 1479 de 2026.",
+ "corte_en": "Data checked on November 25, 2026 (Colombia time). Sources: bill page on camara.gov.co, Congressional Gazettes 1072 and 1479 of 2026.",
+ "cifras": [
+  {
+   "num": 113446,
+   "es": "mineros inscritos en Génesis a dic. de 2021",
+   "en": "miners registered in Génesis as of Dec 2021",
+   "fuente": "MinEnergía, citado en el PL",
+   "url": "https://www.camara.gov.co/formalizacion-de-la-mineria-de-pequena-escala"
+  },
+  {
+   "num": 54.9,
+   "dec": 1,
+   "suf": " %",
+   "es": "de esos mineros están en Antioquia",
+   "en": "of those miners are in Antioquia",
+   "fuente": "MinEnergía, citado en el PL",
+   "url": "https://www.camara.gov.co/formalizacion-de-la-mineria-de-pequena-escala"
+  },
+  {
+   "num": 66,
+   "suf": " %",
+   "es": "de las minas de pequeña escala son ilegales",
+   "en": "of small-scale mines are illegal",
+   "fuente": "Plan Nacional de Mercurio 2023",
+   "url": "https://www.camara.gov.co/formalizacion-de-la-mineria-de-pequena-escala"
+  },
+  {
+   "num": 62,
+   "suf": " %",
+   "es": "de los mineros inscritos gana menos de un salario mínimo",
+   "en": "of registered miners earn less than minimum wage",
+   "fuente": "MinEnergía, citado en el PL",
+   "url": "https://www.camara.gov.co/formalizacion-de-la-mineria-de-pequena-escala"
+  }
+ ],
+ "tramite": [
+  {
+   "es": "Radicado en la Cámara",
+   "en": "Filed in the House",
+   "f": "2026-07-29",
+   "hecho": true
+  },
+  {
+   "es": "Publicado en la Gaceta 1072",
+   "en": "Published in Gazette 1072",
+   "f": "2026-08-20",
+   "hecho": true
+  },
+  {
+   "es": "Ponentes asignados",
+   "en": "Rapporteurs assigned",
+   "f": "2026-08-27",
+   "hecho": true
+  },
+  {
+   "es": "Ponencia positiva para 1.er debate",
+   "en": "Favorable report for 1st debate",
+   "f": "2026-10-02",
+   "hecho": true
+  },
+  {
+   "es": "1.er debate: Comisión Quinta de la Cámara",
+   "en": "1st debate: House Fifth Committee",
+   "hecho": false,
+   "actual": true
+  },
+  {
+   "es": "2.º debate: Plenaria de la Cámara",
+   "en": "2nd debate: full House",
+   "hecho": false
+  },
+  {
+   "es": "3.er debate: Comisión Quinta del Senado",
+   "en": "3rd debate: Senate Fifth Committee",
+   "hecho": false
+  },
+  {
+   "es": "4.º debate: Plenaria del Senado",
+   "en": "4th debate: full Senate",
+   "hecho": false
+  },
+  {
+   "es": "Conciliación y sanción presidencial",
+   "en": "Reconciliation and presidential signature",
+   "hecho": false
+  }
+ ],
+ "fases": [
+  {
+   "n": 1,
+   "sigla": "PITE",
+   "foto": "img/foto8.jpg",
+   "es_t": "Permiso Inmediato Temporal de Explotación",
+   "en_t": "Immediate Temporary Mining Permit",
+   "es_dur": "Hasta 1 año",
+   "en_dur": "Up to 1 year",
+   "es": "El pequeño minero se inscribe en la Ventanilla Única, firma el compromiso de cumplir un plan minero y ambiental básico (PMCAB) y deja por completo el mercurio. Con eso puede trabajar mientras radica el Instrumento Unificado de Formalización (IUF).",
+   "en": "The small-scale miner registers at the One-Stop Window, signs a commitment to a basic mining and environmental plan (PMCAB) and stops using mercury completely. With that, they can work while filing the Unified Formalization Instrument (IUF)."
+  },
+  {
+   "n": 2,
+   "sigla": "PPT",
+   "foto": "img/foto2.jpg",
+   "es_t": "Permiso de Explotación de Transición",
+   "en_t": "Transitional Mining Permit",
+   "es_dur": "6 meses + 6 de prórroga",
+   "en_dur": "6 months + 6-month extension",
+   "es": "Ya cumplida la fase 1, presenta el estudio de impacto ambiental para la formalización (EIAF). La Ventanilla Única debe decidir de fondo, sin pedir dos veces lo mismo. Si el plazo se vence, nada queda aprobado de forma automática.",
+   "en": "Once phase 1 is met, the miner files the environmental impact study for formalization (EIAF). The One-Stop Window must decide on the merits without asking twice for the same thing. If the deadline passes, nothing is approved automatically."
+  },
+  {
+   "n": 3,
+   "sigla": "LAFD",
+   "foto": "img/foto1.jpg",
+   "es_t": "Formalizado: control y seguimiento",
+   "en_t": "Formalized: monitoring and follow-up",
+   "es_dur": "Permanente",
+   "en_dur": "Ongoing",
+   "es": "Con el IUF aprobado y la Licencia Ambiental para la Formalización Diferencial (LAFD), sigue trabajando bajo su título o figura de formalización. Las autoridades minera y ambiental lo vigilan de forma coordinada.",
+   "en": "With the IUF approved and the Differential Environmental License for Formalization (LAFD), the miner keeps working under a title or formalization scheme. Mining and environmental authorities monitor jointly."
+  }
+ ],
+ "puntos": [
+  {
+   "foto": "img/foto7.jpg",
+   "es_t": "La maquinaria no se destruye",
+   "en_t": "Machinery is not destroyed",
+   "es": "Mientras el permiso esté vigente, no se pueden destruir ni inutilizar los equipos declarados que se usen dentro del área autorizada. Antes de actuar, las autoridades deben verificar el permiso. La maquinaria no declarada o fuera del área no queda protegida.",
+   "en": "While the permit is valid, declared equipment used within the authorized area cannot be destroyed or disabled. Authorities must check the permit before acting. Undeclared machinery or work outside the area is not protected."
+  },
+  {
+   "foto": "img/foto10.jpg",
+   "es_t": "Cero mercurio desde el primer día",
+   "en_t": "Zero mercury from day one",
+   "es": "Para recibir el primer permiso (PITE) hay que eliminar por completo el mercurio. El mineral se beneficia solo en plantas autorizadas y con trazabilidad.",
+   "en": "Getting the first permit (PITE) requires eliminating mercury completely. Ore may only be processed in authorized, traceable plants."
+  },
+  {
+   "foto": "img/foto4.jpg",
+   "es_t": "Oro con certificado de origen",
+   "en_t": "Gold with a certificate of origin",
+   "es": "Las plantas expiden un Certificado de Origen de Beneficio (COB) por cada lote, que demuestra que el mineral es legal para transportarlo y venderlo. También cubre el mineral de las fases 1 y 2.",
+   "en": "Processing plants issue a Certificate of Origin (COB) for each batch, proving the mineral is legal to transport and sell. It also covers ore from phases 1 and 2."
+  },
+  {
+   "foto": "img/foto6.jpg",
+   "es_t": "Ventanilla Única",
+   "en_t": "One-Stop Window",
+   "es": "Un solo punto, con plataforma en línea, donde participan las autoridades minera y ambiental y los ministerios del Interior, Defensa y Trabajo, además del ICANH. Los trámites empiezan cuando esté funcionando; el proyecto da 6 meses para reglamentarla.",
+   "en": "A single access point with an online platform, bringing together mining and environmental authorities, the Interior, Defense and Labor ministries and ICANH. Procedures start once it is running; the bill gives 6 months to regulate it."
+  },
+  {
+   "foto": "img/foto11.jpg",
+   "es_t": "Asistencia y bancos",
+   "en_t": "Support and banking",
+   "es": "Crea un Programa Nacional permanente de asistencia técnica, ambiental, jurídica y empresarial que ejecutan las gobernaciones. Hacienda y la Superfinanciera tendrían 6 meses para meter a los mineros al sistema financiero.",
+   "en": "Creates a permanent National Program of technical, environmental, legal and business support run by departmental governments. The Treasury and the Financial Superintendency would have 6 months to bring miners into the banking system."
+  },
+  {
+   "foto": "img/foto8.jpg",
+   "es_t": "Protección frente a la extorsión",
+   "en_t": "Protection from extortion",
+   "es": "Los datos de los mineros y sus familias se protegen. El Ministerio del Interior, con Defensa y Minas, armaría mecanismos de prevención y protección frente a extorsiones y amenazas.",
+   "en": "Miners' and their families' data is protected. The Interior Ministry, with Defense and Mines, would set up prevention and protection mechanisms against extortion and threats."
+  }
+ ],
+ "quien_es": "Pueden acogerse las personas naturales, organizaciones de pequeña minería, asociaciones y cooperativas que trabajen en áreas no excluidas de la minería, ya sea (a) en áreas sin título minero vigente o (b) dentro de un título, con un Acuerdo Transitorio de Coexistencia firmado con el titular. Se priorizan las zonas con extracción ilícita o mucha minería informal, identificadas con corte al 30 de junio de 2026. Con la ponencia, la ruta de 3 fases queda solo para la pequeña minería: el minero de subsistencia (barequero) conserva su régimen especial, y las comunidades étnicas se rigen por el suyo.",
+ "quien_en": "Eligible: individuals, small-scale mining organizations, associations and cooperatives working in areas not excluded from mining, either (a) in areas with no valid mining title or (b) inside a title, with a Transitional Coexistence Agreement signed with the holder. Priority goes to areas with illicit extraction or heavy informal mining, identified as of June 30, 2026. Under the committee report, the 3-phase route applies only to small-scale mining: subsistence miners (barequeros) keep their special regime, and ethnic communities keep theirs.",
+ "bajo_cauca": {
+  "es": "El 26 de septiembre de 2026 el proyecto se socializó en El Bagre con 25 asistentes. Pidieron tener en cuenta las particularidades del Bajo Cauca y el Nordeste, bajar costos y trámites, identificar los pasivos ambientales y que el Estado llegue de verdad al territorio. Antes hubo una reunión virtual con mineros del Nordeste y el Bajo Cauca (7 de septiembre) y una mesa técnica en Medellín (21 de septiembre).",
+  "en": "On September 26, 2026 the bill was presented in El Bagre to 25 attendees. They asked lawmakers to consider the specific conditions of Bajo Cauca and the Northeast, cut costs and paperwork, identify environmental liabilities and ensure a real state presence. Before that there was a virtual meeting with miners from the Northeast and Bajo Cauca (Sept 7) and a technical roundtable in Medellín (Sept 21).",
+  "datos": [
+   {
+    "num": 54.9,
+    "dec": 1,
+    "suf": " %",
+    "es": "de los mineros de subsistencia inscritos en 2021 estaban en Antioquia",
+    "en": "of subsistence miners registered in 2021 were in Antioquia"
+   },
+   {
+    "num": 170,
+    "suf": " t",
+    "es": "de mercurio atribuidas a Antioquia en la exposición de motivos",
+    "en": "of mercury attributed to Antioquia in the bill's rationale"
+   },
+   {
+    "num": 25,
+    "es": "personas en la socialización de El Bagre",
+    "en": "people at the El Bagre public meeting"
+   }
+  ],
+  "fuente": "Gaceta del Congreso 1479 de 2026 (ponencia para primer debate)",
+  "url": "https://www.redjurista.com/Compilaciones2018/gacetasCongreso/2026/gc_1479_2026.pdf"
+ },
+ "linea": [
+  {
+   "f": "2022-07-11",
+   "es": "Rige la Ley 2250 de 2022 sobre legalización y formalización minera, la base sobre la que se construye este proyecto.",
+   "en": "Law 2250 of 2022 on mining legalization and formalization takes effect; this bill builds on it.",
+   "url": "https://www.redjurista.com/Compilaciones2018/gacetasCongreso/2026/gc_1072_2026.pdf"
+  },
+  {
+   "f": "2026-07-28",
+   "es": "El Gobierno radica su propia Ley Minera, que también trae un capítulo de formalización con enfoque diferencial para la pequeña minería.",
+   "en": "The government files its own Mining Law, which also includes a formalization chapter for small-scale mining.",
+   "url": "https://minenergia.gov.co/es/sala-de-prensa/noticias-index/gobierno-nacional-radica-proyecto-de-ley-minera-para-modernizar-el-sector/"
+  },
+  {
+   "f": "2026-07-29",
+   "es": "Se radica el PL 117 de 2026 Cámara. Lo firman la representante Ana Ligia Mora (Antioquia), el representante Daruin Castellanos (Meta) y el senador Hernán Darío Cadavid. Tiene 13 artículos.",
+   "en": "Bill 117 of 2026 (House) is filed, signed by Rep. Ana Ligia Mora (Antioquia), Rep. Daruin Castellanos (Meta) and Sen. Hernán Darío Cadavid. It has 13 articles.",
+   "url": "https://www.camara.gov.co/wp-content/uploads/2026/08/proyectos-ley/documentos/proyecto-36241/P.L.117-2026SC-FORMALIZACION-DE-LA-MINERIA-DE-PEQUENA-ESCALA.pdf"
+  },
+  {
+   "f": "2026-08-11",
+   "es": "En el Senado se publica un proyecto con el mismo título: el PL 109 de 2026 Senado, en la Comisión Quinta.",
+   "en": "A bill with the same title is published in the Senate: Bill 109 of 2026, in the Fifth Committee.",
+   "url": "https://senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/proyectos-de-ley/proyectos-de-ley-y-ponencias-periodo-constitucional-2026-2030/proyectos-de-ley-y-ponencias-legislatura-20-julio-2026-20-julio-2027/p-de-l-no-109-2026-senado-formalizacion-minera"
+  },
+  {
+   "f": "2026-08-27",
+   "es": "La Comisión Quinta de la Cámara asigna los ponentes. Después se suma la adhesión del representante Nicolás Barguil (Gaceta 1383).",
+   "en": "The House Fifth Committee assigns rapporteurs. Rep. Nicolás Barguil later joins as co-sponsor (Gazette 1383).",
+   "url": "https://www.camara.gov.co/formalizacion-de-la-mineria-de-pequena-escala"
+  },
+  {
+   "f": "2026-09-26",
+   "es": "Socialización en El Bagre con mineros del Bajo Cauca, después de una mesa técnica en Medellín (21 sep.) y una reunión virtual con el Nordeste y el Bajo Cauca (7 sep.).",
+   "en": "Public meeting in El Bagre with Bajo Cauca miners, after a technical roundtable in Medellín (Sept 21) and a virtual meeting with the Northeast and Bajo Cauca (Sept 7).",
+   "url": "https://www.redjurista.com/Compilaciones2018/gacetasCongreso/2026/gc_1479_2026.pdf"
+  },
+  {
+   "f": "2026-10-02",
+   "es": "Se radica la ponencia positiva para primer debate (Gaceta 1479, publicada el 6 de octubre). Deja la ruta solo para la pequeña minería, crea el IUF y la LAFD y suma a Defensa y Trabajo a la Ventanilla Única.",
+   "en": "Favorable report for first debate is filed (Gazette 1479, published Oct 6). It limits the route to small-scale mining, creates the IUF and LAFD, and adds Defense and Labor to the One-Stop Window.",
+   "url": "https://www.redjurista.com/Compilaciones2018/gacetasCongreso/2026/gc_1479_2026.pdf"
+  }
+ ],
+ "autoridades": [
+  {
+   "q": "Comisión Quinta de la Cámara",
+   "who": "Debe votar el primer debate",
+   "es": "Aquí está el proyecto hoy. Le toca agendarlo y votarlo.",
+   "en": "This is where the bill sits today. It must schedule and vote on it."
+  },
+  {
+   "q": "Comisión Quinta del Senado",
+   "who": "Tercer debate y PL 109 Senado",
+   "es": "Recibiría el proyecto después de la Cámara, y ya tiene su propio proyecto gemelo, el PL 109.",
+   "en": "Would receive the bill after the House, and already has its own twin bill, Bill 109."
+  },
+  {
+   "q": "Ministerio de Minas y Energía",
+   "who": "Identifica zonas prioritarias",
+   "es": "Según la ponencia, identifica las zonas prioritarias y diseña los incentivos de compra del mineral.",
+   "en": "Under the report, it identifies priority zones and designs incentives to buy the ore."
+  },
+  {
+   "q": "Agencia Nacional de Minería",
+   "who": "Autoridad minera",
+   "es": "Otorga los permisos mineros y hace la fiscalización técnica dentro de la Ventanilla Única.",
+   "en": "Grants mining permits and handles technical oversight within the One-Stop Window."
+  },
+  {
+   "q": "Ministerio de Ambiente",
+   "who": "Formulario simplificado PMCAB",
+   "es": "Con MinEnergía, adoptaría el formulario simplificado del plan minero y ambiental básico.",
+   "en": "With the Mines Ministry, it would adopt the simplified basic mining and environmental plan form."
+  },
+  {
+   "q": "Gobernación de Antioquia y Corantioquia",
+   "who": "Asistencia y licencia ambiental",
+   "es": "La Gobernación ejecutaría el Programa Nacional de Asistencia. Corantioquia es la autoridad ambiental del Bajo Cauca.",
+   "en": "The departmental government would run the National Support Program. Corantioquia is Bajo Cauca's environmental authority."
+  }
+ ],
+ "preguntas": [
+  {
+   "es": "¿Cuándo vota la Comisión Quinta de la Cámara el primer debate?",
+   "en": "When will the House Fifth Committee hold the first vote?"
+  },
+  {
+   "es": "¿Se va a acumular con el PL 109 del Senado o con la Ley Minera del Gobierno?",
+   "en": "Will it be merged with Senate Bill 109 or the government's Mining Law?"
+  },
+  {
+   "es": "¿Qué municipios del Bajo Cauca quedarían como zonas prioritarias?",
+   "en": "Which Bajo Cauca towns would be priority zones?"
+  },
+  {
+   "es": "¿Cuánto cuesta la Ventanilla Única y quién la paga?",
+   "en": "How much will the One-Stop Window cost, and who pays?"
+  },
+  {
+   "es": "¿Qué ayuda tendrá el minero para dejar el mercurio desde el primer permiso?",
+   "en": "What help will miners get to drop mercury from the first permit?"
+  },
+  {
+   "es": "¿Cómo se protegerá al pequeño minero de la extorsión de los grupos armados?",
+   "en": "How will small-scale miners be protected from armed-group extortion?"
+  }
+ ]
+}
