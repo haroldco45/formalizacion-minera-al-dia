@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T02:23:45.674Z",
+ "actualizado": "2026-11-27T11:22:30.346Z",
  "items": [
   {
    "publicado": "2026-11-21T01:12:43.478Z",
@@ -18,6 +18,15 @@
    "hace": "hace 9 días",
    "duracion": "2:48",
    "visto": "2026-11-26T01:12:53.972Z"
+  },
+  {
+   "publicado": "2026-11-13T11:22:20.434Z",
+   "id": "YtIcC9mr4JI",
+   "titulo": "Formalización minera y reserva forestal.",
+   "canal": "Alexandra Torres",
+   "hace": "hace 2 sem.",
+   "duracion": "3:22",
+   "visto": "2026-11-27T11:22:22.050Z"
   },
   {
    "publicado": "2026-11-12T01:12:43.478Z",
@@ -245,6 +254,15 @@
    "visto": "2026-11-25T20:11:23.561Z"
   },
   {
+   "publicado": "2026-05-01T11:22:20.434Z",
+   "id": "o8-Nvs6R5Ks",
+   "titulo": "🔴 EN VIVO: Presidente Petro en el Encuentro Nacional de Formalización Minera",
+   "canal": "RTVC Noticias",
+   "hace": "Transmitido hace 7 m",
+   "duracion": "56:11",
+   "visto": "2026-11-27T11:22:21.085Z"
+  },
+  {
    "publicado": "2026-05-01T02:23:35.209Z",
    "id": "ovGKfIJ1IY0",
    "titulo": "Que es mineria de subsistencia y como se trabaja🇨🇴🤠",
@@ -252,24 +270,6 @@
    "hace": "hace 7 m",
    "duracion": "6:25",
    "visto": "2026-11-27T02:23:38.212Z"
-  },
-  {
-   "publicado": "2026-04-30T01:12:43.478Z",
-   "id": "D36rmFxaQaA",
-   "titulo": "Encuentro Nacional de Formalización Minera y Comercialización del Oro",
-   "canal": "Ministerio de Minas y Energía ",
-   "hace": "Transmitido hace 7 m",
-   "duracion": "2:18:14",
-   "visto": "2026-11-26T01:12:44.408Z"
-  },
-  {
-   "publicado": "2026-04-30T01:12:43.478Z",
-   "id": "twqiPf44D04",
-   "titulo": "[En vivo] Encuentro nacional de formalización minera y comercialización del oro",
-   "canal": "Presidencia de la República - Colombia",
-   "hace": "Transmitido hace 7 m",
-   "duracion": "1:23:13",
-   "visto": "2026-11-26T01:12:44.408Z"
   }
  ]
 }
